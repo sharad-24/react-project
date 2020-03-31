@@ -24,7 +24,7 @@ class Avatar extends Component{
 			const avatarlistarray =[
         {
         	id:1,
-        	name:"Sharad",
+        	name:"Muskaan",
         	work:"web developer"
         },
         {
