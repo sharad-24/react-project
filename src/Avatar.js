@@ -48,7 +48,7 @@ class Avatar extends Component{
                  }
                  	)
 			return( 
-				<div className="mainpage">
+				<div className="mainpage responsive">
 		<h1> {this.state.name} </h1>
 		              {arraycard}
 	            <button onClick={ () => this.namechange() }>  Subcribe </button>
