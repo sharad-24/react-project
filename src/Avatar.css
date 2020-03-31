@@ -8,3 +8,7 @@
 .avatarstyle img{
 	width: 250px; height: 200px;
 }
+.responsive{
+	width: 100%;
+	height:auto;
+}
