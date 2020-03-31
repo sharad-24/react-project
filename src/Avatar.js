@@ -23,23 +23,23 @@ class Avatar extends Component{
 		render(){
 			const avatarlistarray =[
         {
-        	id:1,
-        	name:"Muskaan",
+        	id:2,
+        	name:"sharad",
         	work:"web developer"
         },
         {
-        	id:2,
+        	id:1,
         	name:"Sahil",
         	work:"UI developer"
         },
         {
         	id:3,
-        	name:"Rahul",
+        	name:"Muskaan",
         	work:"Backend"
         },
         {
         	id:4,
-        	name:"Team",
+        	name:"Rahul",
         	work:"web development"
         }
 	]
